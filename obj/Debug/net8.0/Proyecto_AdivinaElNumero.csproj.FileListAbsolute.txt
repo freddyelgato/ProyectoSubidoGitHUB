@@ -1,0 +1,14 @@
+C:\Users\USUARIO\source\repos\Proyecto_AdivinaElNumero\Proyecto_AdivinaElNumero\bin\Debug\net8.0\Proyecto_AdivinaElNumero.exe
+C:\Users\USUARIO\source\repos\Proyecto_AdivinaElNumero\Proyecto_AdivinaElNumero\bin\Debug\net8.0\Proyecto_AdivinaElNumero.deps.json
+C:\Users\USUARIO\source\repos\Proyecto_AdivinaElNumero\Proyecto_AdivinaElNumero\bin\Debug\net8.0\Proyecto_AdivinaElNumero.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Proyecto_AdivinaElNumero\Proyecto_AdivinaElNumero\bin\Debug\net8.0\Proyecto_AdivinaElNumero.dll
+C:\Users\USUARIO\source\repos\Proyecto_AdivinaElNumero\Proyecto_AdivinaElNumero\bin\Debug\net8.0\Proyecto_AdivinaElNumero.pdb
+C:\Users\USUARIO\source\repos\Proyecto_AdivinaElNumero\Proyecto_AdivinaElNumero\obj\Debug\net8.0\Proyecto_AdivinaElNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Proyecto_AdivinaElNumero\Proyecto_AdivinaElNumero\obj\Debug\net8.0\Proyecto_AdivinaElNumero.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Proyecto_AdivinaElNumero\Proyecto_AdivinaElNumero\obj\Debug\net8.0\Proyecto_AdivinaElNumero.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Proyecto_AdivinaElNumero\Proyecto_AdivinaElNumero\obj\Debug\net8.0\Proyecto_AdivinaElNumero.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Proyecto_AdivinaElNumero\Proyecto_AdivinaElNumero\obj\Debug\net8.0\Proyecto_AdivinaElNumero.dll
+C:\Users\USUARIO\source\repos\Proyecto_AdivinaElNumero\Proyecto_AdivinaElNumero\obj\Debug\net8.0\refint\Proyecto_AdivinaElNumero.dll
+C:\Users\USUARIO\source\repos\Proyecto_AdivinaElNumero\Proyecto_AdivinaElNumero\obj\Debug\net8.0\Proyecto_AdivinaElNumero.pdb
+C:\Users\USUARIO\source\repos\Proyecto_AdivinaElNumero\Proyecto_AdivinaElNumero\obj\Debug\net8.0\Proyecto_AdivinaElNumero.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\Proyecto_AdivinaElNumero\Proyecto_AdivinaElNumero\obj\Debug\net8.0\ref\Proyecto_AdivinaElNumero.dll
